@@ -157,7 +157,8 @@ p{
 #home-info .info-img {
     float:left;
     width:50%;
-    background: url("https://images.pexels.com/photos/4916129/pexels-photo-4916129.jpeg?auto=compress&cs=tinysrgb&w=600") no-repeat;
+    background: url("https://images.pexels.com/photos/4916129/pexels-photo-4916129.jpeg?auto=compress&cs=tinysrgb&w=600") no-repeat center center/cover;
+
     min-height: 100%;
 }
 
